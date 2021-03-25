@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white; /* text color */
+}
+
+h3 {
+    color: #99ff99;
+}
+
+#plotButton {
+    margin-top: 5px;
+    background-color: #99ff99;
+    border-color: white;
+    color: black;
+}
+
+#downloadCode {
+    margin-top: 5px;
+    background-color: #99ff99;
+    border-color: white;
+    color: black;
+}
